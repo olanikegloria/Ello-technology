@@ -36,5 +36,5 @@ Despite the challenges, I thoroughly enjoyed tackling each task and unleashing m
 
 ## 📝 Conclusion
 
-The Ello Technology Frontend Assignment enabled me to showcase my expertise in frontend development and demonstrate my ability to deliver high-quality, interactive web applications. I'm excited about the possibility of collaborating further with Ello Technology and contributing to its success.
+The Ello Technology Fullstack Assignment enabled me to showcase my expertise in software development and demonstrate my ability to deliver high-quality, interactive web applications. I'm excited about the possibility of collaborating further with Ello Technology and contributing to its success.
 
